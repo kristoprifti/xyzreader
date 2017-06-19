@@ -31,12 +31,20 @@ ADDED from C:\Users\k.prifti\Downloads\xyzreader\XYZReader\src\main\AndroidManif
 		ADDED from C:\Users\k.prifti\Downloads\xyzreader\XYZReader\src\main\AndroidManifest.xml:9:22-76
 application
 ADDED from C:\Users\k.prifti\Downloads\xyzreader\XYZReader\src\main\AndroidManifest.xml:11:5-46:19
-MERGED from [com.android.support:support-v13:22.0.0] C:\Users\k.prifti\.android\build-cache\a7efca6643249182600a1ec6ceeb94ca670fbba2\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\k.prifti\.android\build-cache\bed8355aa1c6bc848dce696f76a069f9c2f948ab\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:22.0.0] C:\Users\k.prifti\.android\build-cache\a787114892b3e74e60b7d9d08bd0fcb48103cbc8\output\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:recyclerview-v7:22.0.0] C:\Users\k.prifti\.android\build-cache\5153aca6ab863c48e349f842916240dc9be674c0\output\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:22.0.0] C:\Users\k.prifti\.android\build-cache\eac90518ddebe15a2aedadba6ee7aca93ac0a9af\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:22.0.0] C:\Users\k.prifti\.android\build-cache\502bfba6d8b1e8908506f6a6e7200ccc4d534bfe\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\k.prifti\.android\build-cache\5a6f934640b4aef2f94d558c90eedbffb5f8fd7a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\k.prifti\.android\build-cache\4e21b0606fcb6e42a95a9c25c6530756469f4797\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\k.prifti\.android\build-cache\409c6515ab26d17b38903a05676f234d108be22e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\k.prifti\.android\build-cache\4cd8e12e45821912e9dd704f491b53ebd60adc1b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\k.prifti\.android\build-cache\35bf424b00267d7c57723c6e2b8363ed6ac22688\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\k.prifti\.android\build-cache\65947941ccf98ff0f1dd9404963e3df3a03a1d2c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\k.prifti\.android\build-cache\a61c1093b0cfe3901e3768d4d1eedfd8a3f3729c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\k.prifti\.android\build-cache\85a9c2d2c5c6f50dbc81ef012ffb90d7e790ca26\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\k.prifti\.android\build-cache\76b436931b818e01e7096dc9f4ec6f2186e0e6fe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\k.prifti\.android\build-cache\f60adfab19f79ff9295d8779dd03a06cddf3179d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\k.prifti\.android\build-cache\afb49ec477d597bea476210321b8c2503df07de8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\k.prifti\.android\build-cache\b28aa304215ddd596b9f5f283bd9bbe5b33fb8bb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\k.prifti\.android\build-cache\78c6241cbee25fe098473f66ba34f44a9e11e4bd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\k.prifti\.android\build-cache\86d3fe701c995de4096b17d21d50db4080660865\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\Users\k.prifti\Downloads\xyzreader\XYZReader\src\main\AndroidManifest.xml:14:9-41
 	android:allowBackup
@@ -103,21 +111,46 @@ ADDED from C:\Users\k.prifti\Downloads\xyzreader\XYZReader\src\main\AndroidManif
 		ADDED from C:\Users\k.prifti\Downloads\xyzreader\XYZReader\src\main\AndroidManifest.xml:42:19-53
 uses-sdk
 INJECTED from C:\Users\k.prifti\Downloads\xyzreader\XYZReader\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v13:22.0.0] C:\Users\k.prifti\.android\build-cache\a7efca6643249182600a1ec6ceeb94ca670fbba2\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\k.prifti\.android\build-cache\bed8355aa1c6bc848dce696f76a069f9c2f948ab\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:22.0.0] C:\Users\k.prifti\.android\build-cache\a787114892b3e74e60b7d9d08bd0fcb48103cbc8\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:22.0.0] C:\Users\k.prifti\.android\build-cache\5153aca6ab863c48e349f842916240dc9be674c0\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.0.0] C:\Users\k.prifti\.android\build-cache\eac90518ddebe15a2aedadba6ee7aca93ac0a9af\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:22.0.0] C:\Users\k.prifti\.android\build-cache\502bfba6d8b1e8908506f6a6e7200ccc4d534bfe\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\k.prifti\.android\build-cache\5a6f934640b4aef2f94d558c90eedbffb5f8fd7a\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\k.prifti\.android\build-cache\4e21b0606fcb6e42a95a9c25c6530756469f4797\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\k.prifti\.android\build-cache\409c6515ab26d17b38903a05676f234d108be22e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\k.prifti\.android\build-cache\4cd8e12e45821912e9dd704f491b53ebd60adc1b\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\k.prifti\.android\build-cache\35bf424b00267d7c57723c6e2b8363ed6ac22688\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\k.prifti\.android\build-cache\65947941ccf98ff0f1dd9404963e3df3a03a1d2c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\k.prifti\.android\build-cache\a61c1093b0cfe3901e3768d4d1eedfd8a3f3729c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\k.prifti\.android\build-cache\07295ecaa48c7f814abe1daf6440baf0f480e125\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\k.prifti\.android\build-cache\85a9c2d2c5c6f50dbc81ef012ffb90d7e790ca26\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\k.prifti\.android\build-cache\76b436931b818e01e7096dc9f4ec6f2186e0e6fe\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\k.prifti\.android\build-cache\f60adfab19f79ff9295d8779dd03a06cddf3179d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\k.prifti\.android\build-cache\afb49ec477d597bea476210321b8c2503df07de8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\k.prifti\.android\build-cache\b28aa304215ddd596b9f5f283bd9bbe5b33fb8bb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\k.prifti\.android\build-cache\78c6241cbee25fe098473f66ba34f44a9e11e4bd\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\k.prifti\.android\build-cache\86d3fe701c995de4096b17d21d50db4080660865\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\k.prifti\.android\build-cache\5a6f934640b4aef2f94d558c90eedbffb5f8fd7a\output\AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
 		INJECTED from C:\Users\k.prifti\Downloads\xyzreader\XYZReader\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\k.prifti\Downloads\xyzreader\XYZReader\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\k.prifti\Downloads\xyzreader\XYZReader\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\k.prifti\Downloads\xyzreader\XYZReader\src\main\AndroidManifest.xml
-activity#android.support.v7.widget.TestActivity
-ADDED from [com.android.support:recyclerview-v7:22.0.0] C:\Users\k.prifti\.android\build-cache\5153aca6ab863c48e349f842916240dc9be674c0\output\AndroidManifest.xml:23:9-25:56
-	android:label
-		ADDED from [com.android.support:recyclerview-v7:22.0.0] C:\Users\k.prifti\.android\build-cache\5153aca6ab863c48e349f842916240dc9be674c0\output\AndroidManifest.xml:25:13-53
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\k.prifti\.android\build-cache\5a6f934640b4aef2f94d558c90eedbffb5f8fd7a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\k.prifti\.android\build-cache\4e21b0606fcb6e42a95a9c25c6530756469f4797\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\k.prifti\.android\build-cache\409c6515ab26d17b38903a05676f234d108be22e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\k.prifti\.android\build-cache\4cd8e12e45821912e9dd704f491b53ebd60adc1b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\k.prifti\.android\build-cache\35bf424b00267d7c57723c6e2b8363ed6ac22688\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\k.prifti\.android\build-cache\65947941ccf98ff0f1dd9404963e3df3a03a1d2c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\k.prifti\.android\build-cache\a61c1093b0cfe3901e3768d4d1eedfd8a3f3729c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\k.prifti\.android\build-cache\07295ecaa48c7f814abe1daf6440baf0f480e125\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\k.prifti\.android\build-cache\85a9c2d2c5c6f50dbc81ef012ffb90d7e790ca26\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\k.prifti\.android\build-cache\76b436931b818e01e7096dc9f4ec6f2186e0e6fe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\k.prifti\.android\build-cache\f60adfab19f79ff9295d8779dd03a06cddf3179d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\k.prifti\.android\build-cache\afb49ec477d597bea476210321b8c2503df07de8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\k.prifti\.android\build-cache\b28aa304215ddd596b9f5f283bd9bbe5b33fb8bb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\k.prifti\.android\build-cache\78c6241cbee25fe098473f66ba34f44a9e11e4bd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\k.prifti\.android\build-cache\86d3fe701c995de4096b17d21d50db4080660865\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\k.prifti\.android\build-cache\5a6f934640b4aef2f94d558c90eedbffb5f8fd7a\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:recyclerview-v7:22.0.0] C:\Users\k.prifti\.android\build-cache\5153aca6ab863c48e349f842916240dc9be674c0\output\AndroidManifest.xml:24:13-66
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\k.prifti\.android\build-cache\5a6f934640b4aef2f94d558c90eedbffb5f8fd7a\output\AndroidManifest.xml:26:9-47

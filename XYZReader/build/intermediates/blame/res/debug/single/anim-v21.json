@@ -1,6 +1,14 @@
 [
     {
+        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\4cd8e12e45821912e9dd704f491b53ebd60adc1b\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\fab_state_list_anim.xml",
         "source": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\src\\main\\res\\anim-v21\\fab_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\4cd8e12e45821912e9dd704f491b53ebd60adc1b\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     }
 ]

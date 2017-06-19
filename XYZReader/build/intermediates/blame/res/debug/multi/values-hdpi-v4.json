@@ -9,17 +9,17 @@
                     "startOffset": 55,
                     "endLine": 6,
                     "endColumn": 13,
-                    "endOffset": 325
+                    "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\bed8355aa1c6bc848dce696f76a069f9c2f948ab\\output\\res\\values-hdpi-v4\\values.xml",
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 282,
-                        "endLine": 8,
+                        "startOffset": 55,
+                        "endLine": 6,
                         "endColumn": 13,
-                        "endOffset": 552
+                        "endOffset": 327
                     }
                 }
             }

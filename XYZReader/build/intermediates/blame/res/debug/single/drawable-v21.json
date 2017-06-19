@@ -1,6 +1,38 @@
 [
     {
+        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\4cd8e12e45821912e9dd704f491b53ebd60adc1b\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\4cd8e12e45821912e9dd704f491b53ebd60adc1b\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\4cd8e12e45821912e9dd704f491b53ebd60adc1b\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
         "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\white_selectable_item_background_circle.xml",
         "source": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\src\\main\\res\\drawable-v21\\white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\4cd8e12e45821912e9dd704f491b53ebd60adc1b\\output\\res\\drawable-v21\\avd_hide_password.xml"
     }
 ]
