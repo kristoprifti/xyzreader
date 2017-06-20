@@ -11,14 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 103,
-                        "endOffset": 154
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 218
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 159,
-                        "endColumn": 63,
-                        "endOffset": 218
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 285
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 223,
-                        "endColumn": 66,
-                        "endOffset": 285
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
@@ -68,14 +47,7 @@
                     "endOffset": 349
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 290,
-                        "endColumn": 63,
-                        "endOffset": 349
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
@@ -83,93 +55,19 @@
                     "startLine": 6,
                     "startColumn": 4,
                     "startOffset": 354,
-                    "endColumn": 90,
-                    "endOffset": 440
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 653
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 354,
-                        "endColumn": 90,
-                        "endOffset": 440
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 445,
-                    "endColumn": 102,
-                    "endOffset": 543
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 445,
-                        "endColumn": 102,
-                        "endOffset": 543
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 548,
-                    "endColumn": 102,
-                    "endOffset": 646
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 548,
-                        "endColumn": 102,
-                        "endOffset": 646
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 651,
-                    "endColumn": 104,
-                    "endOffset": 751
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 651,
-                        "endColumn": 104,
-                        "endOffset": 751
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 756,
-                    "endColumn": 106,
-                    "endOffset": 858
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 756,
-                        "endColumn": 106,
-                        "endOffset": 858
+                        "startOffset": 57,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 360
                     }
                 }
             },
@@ -177,1903 +75,1249 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 863,
-                    "endColumn": 108,
-                    "endOffset": 967
+                    "startOffset": 658,
+                    "endColumn": 90,
+                    "endOffset": 744
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 863,
-                        "endColumn": 108,
-                        "endOffset": 967
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 972,
-                    "endColumn": 108,
-                    "endOffset": 1076
+                    "startOffset": 749,
+                    "endColumn": 102,
+                    "endOffset": 847
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 972,
-                        "endColumn": 108,
-                        "endOffset": 1076
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1081,
-                    "endColumn": 108,
-                    "endOffset": 1185
+                    "startOffset": 852,
+                    "endColumn": 102,
+                    "endOffset": 950
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1081,
-                        "endColumn": 108,
-                        "endOffset": 1185
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1190,
-                    "endColumn": 108,
-                    "endOffset": 1294
+                    "startOffset": 955,
+                    "endColumn": 104,
+                    "endOffset": 1055
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1190,
-                        "endColumn": 108,
-                        "endOffset": 1294
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1299,
-                    "endColumn": 108,
-                    "endOffset": 1403
+                    "startOffset": 1060,
+                    "endColumn": 106,
+                    "endOffset": 1162
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1299,
-                        "endColumn": 108,
-                        "endOffset": 1403
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1408,
-                    "endColumn": 106,
-                    "endOffset": 1510
+                    "startOffset": 1167,
+                    "endColumn": 108,
+                    "endOffset": 1271
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1408,
-                        "endColumn": 106,
-                        "endOffset": 1510
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1515,
-                    "endColumn": 102,
-                    "endOffset": 1613
+                    "startOffset": 1276,
+                    "endColumn": 108,
+                    "endOffset": 1380
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1515,
-                        "endColumn": 102,
-                        "endOffset": 1613
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1618,
-                    "endColumn": 118,
-                    "endOffset": 1732
+                    "startOffset": 1385,
+                    "endColumn": 108,
+                    "endOffset": 1489
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1618,
-                        "endColumn": 118,
-                        "endOffset": 1732
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1737,
-                    "endLine": 20,
-                    "endColumn": 12,
-                    "endOffset": 1887
+                    "startOffset": 1494,
+                    "endColumn": 108,
+                    "endOffset": 1598
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1737,
-                        "endLine": 20,
-                        "endColumn": 12,
-                        "endOffset": 1887
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1603,
+                    "endColumn": 108,
+                    "endOffset": 1707
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1892,
-                    "endLine": 22,
-                    "endColumn": 12,
-                    "endOffset": 2042
+                    "startOffset": 1712,
+                    "endColumn": 106,
+                    "endOffset": 1814
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1892,
-                        "endLine": 22,
-                        "endColumn": 12,
-                        "endOffset": 2042
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1819,
+                    "endColumn": 102,
+                    "endOffset": 1917
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2047,
-                    "endColumn": 104,
-                    "endOffset": 2147
+                    "startOffset": 1922,
+                    "endColumn": 118,
+                    "endOffset": 2036
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2047,
-                        "endColumn": 104,
-                        "endOffset": 2147
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2152,
-                    "endColumn": 120,
-                    "endOffset": 2268
+                    "startOffset": 2041,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 2191
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 2152,
-                        "endColumn": 120,
-                        "endOffset": 2268
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2273,
-                    "endColumn": 100,
-                    "endOffset": 2369
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 2273,
-                        "endColumn": 100,
-                        "endOffset": 2369
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2374,
+                    "startOffset": 2196,
                     "endLine": 27,
                     "endColumn": 12,
-                    "endOffset": 2516
+                    "endOffset": 2346
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 2374,
-                        "endLine": 27,
-                        "endColumn": 12,
-                        "endOffset": 2516
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2521,
-                    "endLine": 29,
-                    "endColumn": 12,
-                    "endOffset": 2657
+                    "startOffset": 2351,
+                    "endColumn": 104,
+                    "endOffset": 2451
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 2521,
-                        "endLine": 29,
-                        "endColumn": 12,
-                        "endOffset": 2657
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2456,
+                    "endColumn": 120,
+                    "endOffset": 2572
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2662,
-                    "endColumn": 102,
-                    "endOffset": 2760
+                    "startOffset": 2577,
+                    "endColumn": 100,
+                    "endOffset": 2673
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 2662,
-                        "endColumn": 102,
-                        "endOffset": 2760
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2765,
-                    "endColumn": 118,
-                    "endOffset": 2879
+                    "startOffset": 2678,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 2820
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 2765,
-                        "endColumn": 118,
-                        "endOffset": 2879
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 2884,
-                    "endColumn": 106,
-                    "endOffset": 2986
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 2884,
-                        "endColumn": 106,
-                        "endOffset": 2986
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2991,
-                    "endColumn": 102,
-                    "endOffset": 3089
+                    "startOffset": 2825,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2961
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 2991,
-                        "endColumn": 102,
-                        "endOffset": 3089
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 3094,
-                    "endLine": 35,
-                    "endColumn": 12,
-                    "endOffset": 3244
+                    "startOffset": 2966,
+                    "endColumn": 102,
+                    "endOffset": 3064
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 3094,
-                        "endLine": 35,
-                        "endColumn": 12,
-                        "endOffset": 3244
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3249,
-                    "endLine": 37,
-                    "endColumn": 12,
-                    "endOffset": 3415
+                    "startOffset": 3069,
+                    "endColumn": 118,
+                    "endOffset": 3183
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 3249,
-                        "endLine": 37,
-                        "endColumn": 12,
-                        "endOffset": 3415
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3188,
+                    "endColumn": 106,
+                    "endOffset": 3290
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 3420,
-                    "endLine": 39,
-                    "endColumn": 12,
-                    "endOffset": 3564
+                    "startOffset": 3295,
+                    "endColumn": 102,
+                    "endOffset": 3393
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 3420,
-                        "endLine": 39,
-                        "endColumn": 12,
-                        "endOffset": 3564
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 3569,
-                    "endLine": 41,
+                    "startOffset": 3398,
+                    "endLine": 40,
                     "endColumn": 12,
-                    "endOffset": 3729
+                    "endOffset": 3548
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 40,
-                        "startColumn": 4,
-                        "startOffset": 3569,
-                        "endLine": 41,
-                        "endColumn": 12,
-                        "endOffset": 3729
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 3734,
-                    "endLine": 43,
+                    "startOffset": 3553,
+                    "endLine": 42,
                     "endColumn": 12,
-                    "endOffset": 3886
+                    "endOffset": 3719
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 42,
-                        "startColumn": 4,
-                        "startOffset": 3734,
-                        "endLine": 43,
-                        "endColumn": 12,
-                        "endOffset": 3886
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3891,
-                    "endLine": 45,
+                    "startOffset": 3724,
+                    "endLine": 44,
                     "endColumn": 12,
-                    "endOffset": 4037
+                    "endOffset": 3868
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 44,
-                        "startColumn": 4,
-                        "startOffset": 3891,
-                        "endLine": 45,
-                        "endColumn": 12,
-                        "endOffset": 4037
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 4042,
-                    "endColumn": 118,
-                    "endOffset": 4156
+                    "startOffset": 3873,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 4033
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 46,
-                        "startColumn": 4,
-                        "startOffset": 4042,
-                        "endColumn": 118,
-                        "endOffset": 4156
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 4161,
-                    "endLine": 51,
+                    "startOffset": 4038,
+                    "endLine": 48,
                     "endColumn": 12,
-                    "endOffset": 4528
+                    "endOffset": 4190
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 47,
-                        "startColumn": 4,
-                        "startOffset": 4161,
-                        "endLine": 51,
-                        "endColumn": 12,
-                        "endOffset": 4528
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4195,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 4341
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4346,
+                    "endColumn": 118,
+                    "endOffset": 4460
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4533,
-                    "endLine": 53,
+                    "startOffset": 4465,
+                    "endLine": 56,
                     "endColumn": 12,
-                    "endOffset": 4677
+                    "endOffset": 4832
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 52,
-                        "startColumn": 4,
-                        "startOffset": 4533,
-                        "endLine": 53,
-                        "endColumn": 12,
-                        "endOffset": 4677
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 4682,
-                    "endLine": 55,
-                    "endColumn": 12,
-                    "endOffset": 4826
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 54,
-                        "startColumn": 4,
-                        "startOffset": 4682,
-                        "endLine": 55,
-                        "endColumn": 12,
-                        "endOffset": 4826
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 56,
-                    "startColumn": 4,
-                    "startOffset": 4831,
-                    "endColumn": 111,
-                    "endOffset": 4938
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 56,
-                        "startColumn": 4,
-                        "startOffset": 4831,
-                        "endColumn": 111,
-                        "endOffset": 4938
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 4943,
-                    "endColumn": 146,
-                    "endOffset": 5085
+                    "startOffset": 4837,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 4981
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 57,
-                        "startColumn": 4,
-                        "startOffset": 4943,
-                        "endColumn": 146,
-                        "endOffset": 5085
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 5090,
-                    "endLine": 59,
+                    "startOffset": 4986,
+                    "endLine": 60,
                     "endColumn": 12,
-                    "endOffset": 5238
+                    "endOffset": 5130
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 58,
-                        "startColumn": 4,
-                        "startOffset": 5090,
-                        "endLine": 59,
-                        "endColumn": 12,
-                        "endOffset": 5238
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 5243,
-                    "endLine": 61,
-                    "endColumn": 12,
-                    "endOffset": 5385
+                    "startOffset": 5135,
+                    "endColumn": 111,
+                    "endOffset": 5242
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 60,
-                        "startColumn": 4,
-                        "startOffset": 5243,
-                        "endLine": 61,
-                        "endColumn": 12,
-                        "endOffset": 5385
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 5390,
-                    "endColumn": 74,
-                    "endOffset": 5460
+                    "startOffset": 5247,
+                    "endColumn": 146,
+                    "endOffset": 5389
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 62,
-                        "startColumn": 4,
-                        "startOffset": 5390,
-                        "endColumn": 74,
-                        "endOffset": 5460
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 5465,
-                    "endColumn": 88,
-                    "endOffset": 5549
+                    "startOffset": 5394,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 5542
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 63,
-                        "startColumn": 4,
-                        "startOffset": 5465,
-                        "endColumn": 88,
-                        "endOffset": 5549
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 64,
-                    "startColumn": 4,
-                    "startOffset": 5554,
-                    "endColumn": 86,
-                    "endOffset": 5636
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 64,
-                        "startColumn": 4,
-                        "startOffset": 5554,
-                        "endColumn": 86,
-                        "endOffset": 5636
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 5641,
-                    "endColumn": 100,
-                    "endOffset": 5737
+                    "startOffset": 5547,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 5689
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 65,
-                        "startColumn": 4,
-                        "startOffset": 5641,
-                        "endColumn": 100,
-                        "endOffset": 5737
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 66,
-                    "startColumn": 4,
-                    "startOffset": 5742,
-                    "endColumn": 102,
-                    "endOffset": 5840
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 66,
-                        "startColumn": 4,
-                        "startOffset": 5742,
-                        "endColumn": 102,
-                        "endOffset": 5840
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 5845,
-                    "endLine": 110,
-                    "endColumn": 12,
-                    "endOffset": 8908
+                    "startOffset": 5694,
+                    "endColumn": 74,
+                    "endOffset": 5764
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 67,
-                        "startColumn": 4,
-                        "startOffset": 5845,
-                        "endLine": 110,
-                        "endColumn": 12,
-                        "endOffset": 8908
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 111,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 8913,
-                    "endLine": 113,
-                    "endColumn": 12,
-                    "endOffset": 9094
+                    "startOffset": 5769,
+                    "endColumn": 88,
+                    "endOffset": 5853
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 111,
-                        "startColumn": 4,
-                        "startOffset": 8913,
-                        "endLine": 113,
-                        "endColumn": 12,
-                        "endOffset": 9094
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 114,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 9099,
-                    "endLine": 157,
-                    "endColumn": 12,
-                    "endOffset": 12174
+                    "startOffset": 5858,
+                    "endColumn": 86,
+                    "endOffset": 5940
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 114,
-                        "startColumn": 4,
-                        "startOffset": 9099,
-                        "endLine": 157,
-                        "endColumn": 12,
-                        "endOffset": 12174
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 158,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 12179,
-                    "endLine": 160,
-                    "endColumn": 12,
-                    "endOffset": 12372
+                    "startOffset": 5945,
+                    "endColumn": 100,
+                    "endOffset": 6041
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 158,
-                        "startColumn": 4,
-                        "startOffset": 12179,
-                        "endLine": 160,
-                        "endColumn": 12,
-                        "endOffset": 12372
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 161,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 12377,
-                    "endLine": 163,
-                    "endColumn": 12,
-                    "endOffset": 12572
+                    "startOffset": 6046,
+                    "endColumn": 102,
+                    "endOffset": 6144
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 161,
-                        "startColumn": 4,
-                        "startOffset": 12377,
-                        "endLine": 163,
-                        "endColumn": 12,
-                        "endOffset": 12572
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 164,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 12577,
+                    "startOffset": 6149,
+                    "endLine": 115,
+                    "endColumn": 12,
+                    "endOffset": 8996
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 9001,
+                    "endLine": 118,
+                    "endColumn": 12,
+                    "endOffset": 9182
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 9187,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 12046
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 12051,
                     "endLine": 165,
                     "endColumn": 12,
-                    "endOffset": 12695
+                    "endOffset": 12244
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 164,
-                        "startColumn": 4,
-                        "startOffset": 12577,
-                        "endLine": 165,
-                        "endColumn": 12,
-                        "endOffset": 12695
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 12700,
-                    "endLine": 167,
+                    "startOffset": 12249,
+                    "endLine": 168,
                     "endColumn": 12,
-                    "endOffset": 12818
+                    "endOffset": 12444
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 166,
-                        "startColumn": 4,
-                        "startOffset": 12700,
-                        "endLine": 167,
-                        "endColumn": 12,
-                        "endOffset": 12818
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 168,
+                    "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 12823,
-                    "endLine": 169,
+                    "startOffset": 12449,
+                    "endLine": 170,
                     "endColumn": 12,
-                    "endOffset": 12931
+                    "endOffset": 12567
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 168,
-                        "startColumn": 4,
-                        "startOffset": 12823,
-                        "endLine": 169,
-                        "endColumn": 12,
-                        "endOffset": 12931
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 170,
+                    "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 12936,
+                    "startOffset": 12572,
                     "endLine": 172,
                     "endColumn": 12,
-                    "endOffset": 13114
+                    "endOffset": 12690
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 170,
-                        "startColumn": 4,
-                        "startOffset": 12936,
-                        "endLine": 172,
-                        "endColumn": 12,
-                        "endOffset": 13114
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 13119,
+                    "startOffset": 12695,
                     "endLine": 174,
                     "endColumn": 12,
-                    "endOffset": 13245
+                    "endOffset": 12803
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 173,
-                        "startColumn": 4,
-                        "startOffset": 13119,
-                        "endLine": 174,
-                        "endColumn": 12,
-                        "endOffset": 13245
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 13250,
+                    "startOffset": 12808,
                     "endLine": 177,
                     "endColumn": 12,
-                    "endOffset": 13446
+                    "endOffset": 12986
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 175,
-                        "startColumn": 4,
-                        "startOffset": 13250,
-                        "endLine": 177,
-                        "endColumn": 12,
-                        "endOffset": 13446
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 13451,
-                    "endColumn": 88,
-                    "endOffset": 13535
+                    "startOffset": 12991,
+                    "endLine": 179,
+                    "endColumn": 12,
+                    "endOffset": 13117
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 178,
-                        "startColumn": 4,
-                        "startOffset": 13451,
-                        "endColumn": 88,
-                        "endOffset": 13535
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 179,
-                    "startColumn": 4,
-                    "startOffset": 13540,
-                    "endColumn": 110,
-                    "endOffset": 13646
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 179,
-                        "startColumn": 4,
-                        "startOffset": 13540,
-                        "endColumn": 110,
-                        "endOffset": 13646
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 13651,
+                    "startOffset": 13122,
                     "endLine": 182,
                     "endColumn": 12,
-                    "endOffset": 13879
+                    "endOffset": 13318
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 180,
-                        "startColumn": 4,
-                        "startOffset": 13651,
-                        "endLine": 182,
-                        "endColumn": 12,
-                        "endOffset": 13879
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 13884,
-                    "endColumn": 100,
-                    "endOffset": 13980
+                    "startOffset": 13323,
+                    "endColumn": 88,
+                    "endOffset": 13407
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 183,
-                        "startColumn": 4,
-                        "startOffset": 13884,
-                        "endColumn": 100,
-                        "endOffset": 13980
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 13985,
-                    "endColumn": 94,
-                    "endOffset": 14075
+                    "startOffset": 13412,
+                    "endColumn": 110,
+                    "endOffset": 13518
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 184,
-                        "startColumn": 4,
-                        "startOffset": 13985,
-                        "endColumn": 94,
-                        "endOffset": 14075
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 14080,
-                    "endColumn": 122,
-                    "endOffset": 14198
+                    "startOffset": 13523,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 13751
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 185,
-                        "startColumn": 4,
-                        "startOffset": 14080,
-                        "endColumn": 122,
-                        "endOffset": 14198
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 186,
-                    "startColumn": 4,
-                    "startOffset": 14203,
-                    "endColumn": 128,
-                    "endOffset": 14327
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 186,
-                        "startColumn": 4,
-                        "startOffset": 14203,
-                        "endColumn": 128,
-                        "endOffset": 14327
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 187,
-                    "startColumn": 4,
-                    "startOffset": 14332,
-                    "endColumn": 116,
-                    "endOffset": 14444
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 187,
-                        "startColumn": 4,
-                        "startOffset": 14332,
-                        "endColumn": 116,
-                        "endOffset": 14444
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 14449,
-                    "endLine": 190,
-                    "endColumn": 12,
-                    "endOffset": 14621
+                    "startOffset": 13756,
+                    "endColumn": 100,
+                    "endOffset": 13852
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 188,
-                        "startColumn": 4,
-                        "startOffset": 14449,
-                        "endLine": 190,
-                        "endColumn": 12,
-                        "endOffset": 14621
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 13857,
+                    "endColumn": 94,
+                    "endOffset": 13947
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 13952,
+                    "endColumn": 122,
+                    "endOffset": 14070
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 14626,
-                    "endColumn": 98,
-                    "endOffset": 14720
+                    "startOffset": 14075,
+                    "endColumn": 128,
+                    "endOffset": 14199
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 191,
-                        "startColumn": 4,
-                        "startOffset": 14626,
-                        "endColumn": 98,
-                        "endOffset": 14720
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 14725,
-                    "endLine": 193,
-                    "endColumn": 12,
-                    "endOffset": 14855
+                    "startOffset": 14204,
+                    "endColumn": 116,
+                    "endOffset": 14316
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 192,
-                        "startColumn": 4,
-                        "startOffset": 14725,
-                        "endLine": 193,
-                        "endColumn": 12,
-                        "endOffset": 14855
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 14860,
+                    "startOffset": 14321,
                     "endLine": 195,
                     "endColumn": 12,
-                    "endOffset": 14998
+                    "endOffset": 14493
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 194,
-                        "startColumn": 4,
-                        "startOffset": 14860,
-                        "endLine": 195,
-                        "endColumn": 12,
-                        "endOffset": 14998
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 15003,
-                    "endLine": 197,
+                    "startOffset": 14498,
+                    "endColumn": 98,
+                    "endOffset": 14592
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 14597,
+                    "endLine": 198,
                     "endColumn": 12,
-                    "endOffset": 15133
+                    "endOffset": 14727
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 196,
-                        "startColumn": 4,
-                        "startOffset": 15003,
-                        "endLine": 197,
-                        "endColumn": 12,
-                        "endOffset": 15133
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 15138,
-                    "endLine": 199,
+                    "startOffset": 14732,
+                    "endLine": 200,
                     "endColumn": 12,
-                    "endOffset": 15252
+                    "endOffset": 14870
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 198,
-                        "startColumn": 4,
-                        "startOffset": 15138,
-                        "endLine": 199,
-                        "endColumn": 12,
-                        "endOffset": 15252
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 200,
+                    "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 15257,
-                    "endLine": 203,
+                    "startOffset": 14875,
+                    "endLine": 202,
                     "endColumn": 12,
-                    "endOffset": 15453
+                    "endOffset": 15005
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 200,
-                        "startColumn": 4,
-                        "startOffset": 15257,
-                        "endLine": 203,
-                        "endColumn": 12,
-                        "endOffset": 15453
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 204,
+                    "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 15458,
-                    "endLine": 205,
+                    "startOffset": 15010,
+                    "endLine": 204,
                     "endColumn": 12,
-                    "endOffset": 15572
+                    "endOffset": 15124
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 204,
-                        "startColumn": 4,
-                        "startOffset": 15458,
-                        "endLine": 205,
-                        "endColumn": 12,
-                        "endOffset": 15572
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 206,
+                    "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 15577,
-                    "endColumn": 92,
-                    "endOffset": 15665
+                    "startOffset": 15129,
+                    "endLine": 208,
+                    "endColumn": 12,
+                    "endOffset": 15325
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 206,
-                        "startColumn": 4,
-                        "startOffset": 15577,
-                        "endColumn": 92,
-                        "endOffset": 15665
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 207,
-                    "startColumn": 4,
-                    "startOffset": 15670,
-                    "endColumn": 110,
-                    "endOffset": 15776
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 207,
-                        "startColumn": 4,
-                        "startOffset": 15670,
-                        "endColumn": 110,
-                        "endOffset": 15776
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 208,
-                    "startColumn": 4,
-                    "startOffset": 15781,
-                    "endColumn": 55,
-                    "endOffset": 15832
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 208,
-                        "startColumn": 4,
-                        "startOffset": 15781,
-                        "endColumn": 55,
-                        "endOffset": 15832
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 15837,
+                    "startOffset": 15330,
                     "endLine": 210,
                     "endColumn": 12,
-                    "endOffset": 15939
+                    "endOffset": 15444
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 209,
-                        "startColumn": 4,
-                        "startOffset": 15837,
-                        "endLine": 210,
-                        "endColumn": 12,
-                        "endOffset": 15939
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 15944,
-                    "endLine": 214,
-                    "endColumn": 12,
-                    "endOffset": 16134
+                    "startOffset": 15449,
+                    "endColumn": 92,
+                    "endOffset": 15537
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 211,
-                        "startColumn": 4,
-                        "startOffset": 15944,
-                        "endLine": 214,
-                        "endColumn": 12,
-                        "endOffset": 16134
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 215,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 16139,
-                    "endLine": 216,
-                    "endColumn": 12,
-                    "endOffset": 16245
+                    "startOffset": 15542,
+                    "endColumn": 110,
+                    "endOffset": 15648
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 215,
-                        "startColumn": 4,
-                        "startOffset": 16139,
-                        "endLine": 216,
-                        "endColumn": 12,
-                        "endOffset": 16245
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 217,
+                    "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 16250,
-                    "endLine": 218,
-                    "endColumn": 12,
-                    "endOffset": 16378
+                    "startOffset": 15653,
+                    "endColumn": 55,
+                    "endOffset": 15704
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 217,
-                        "startColumn": 4,
-                        "startOffset": 16250,
-                        "endLine": 218,
-                        "endColumn": 12,
-                        "endOffset": 16378
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 219,
+                    "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 16383,
-                    "endColumn": 94,
-                    "endOffset": 16473
+                    "startOffset": 15709,
+                    "endLine": 215,
+                    "endColumn": 12,
+                    "endOffset": 15811
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 219,
-                        "startColumn": 4,
-                        "startOffset": 16383,
-                        "endColumn": 94,
-                        "endOffset": 16473
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 15816,
+                    "endLine": 219,
+                    "endColumn": 12,
+                    "endOffset": 16006
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 16478,
-                    "endColumn": 90,
-                    "endOffset": 16564
+                    "startOffset": 16011,
+                    "endLine": 221,
+                    "endColumn": 12,
+                    "endOffset": 16117
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 220,
-                        "startColumn": 4,
-                        "startOffset": 16478,
-                        "endColumn": 90,
-                        "endOffset": 16564
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 221,
-                    "startColumn": 4,
-                    "startOffset": 16569,
-                    "endColumn": 90,
-                    "endOffset": 16655
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 221,
-                        "startColumn": 4,
-                        "startOffset": 16569,
-                        "endColumn": 90,
-                        "endOffset": 16655
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 16660,
-                    "endColumn": 116,
-                    "endOffset": 16772
+                    "startOffset": 16122,
+                    "endLine": 223,
+                    "endColumn": 12,
+                    "endOffset": 16250
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 222,
-                        "startColumn": 4,
-                        "startOffset": 16660,
-                        "endColumn": 116,
-                        "endOffset": 16772
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 223,
+                    "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 16777,
-                    "endLine": 224,
-                    "endColumn": 12,
-                    "endOffset": 16911
+                    "startOffset": 16255,
+                    "endColumn": 94,
+                    "endOffset": 16345
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 223,
-                        "startColumn": 4,
-                        "startOffset": 16777,
-                        "endLine": 224,
-                        "endColumn": 12,
-                        "endOffset": 16911
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 16916,
-                    "endColumn": 70,
-                    "endOffset": 16982
+                    "startOffset": 16350,
+                    "endColumn": 90,
+                    "endOffset": 16436
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 225,
-                        "startColumn": 4,
-                        "startOffset": 16916,
-                        "endColumn": 70,
-                        "endOffset": 16982
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 16987,
-                    "endColumn": 82,
-                    "endOffset": 17065
+                    "startOffset": 16441,
+                    "endColumn": 90,
+                    "endOffset": 16527
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 226,
-                        "startColumn": 4,
-                        "startOffset": 16987,
-                        "endColumn": 82,
-                        "endOffset": 17065
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 17070,
-                    "endLine": 236,
-                    "endColumn": 12,
-                    "endOffset": 17745
+                    "startOffset": 16532,
+                    "endColumn": 116,
+                    "endOffset": 16644
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 227,
-                        "startColumn": 4,
-                        "startOffset": 17070,
-                        "endLine": 236,
-                        "endColumn": 12,
-                        "endOffset": 17745
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 237,
+                    "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 17750,
+                    "startOffset": 16649,
+                    "endLine": 229,
+                    "endColumn": 12,
+                    "endOffset": 16783
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 16788,
+                    "endColumn": 70,
+                    "endOffset": 16854
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 16859,
+                    "endColumn": 82,
+                    "endOffset": 16937
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 16942,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 17560
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 17565,
                     "endColumn": 56,
-                    "endOffset": 17802
+                    "endOffset": 17617
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 237,
-                        "startColumn": 4,
-                        "startOffset": 17750,
-                        "endColumn": 56,
-                        "endOffset": 17802
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 238,
+                    "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 17807,
+                    "startOffset": 17622,
                     "endColumn": 57,
-                    "endOffset": 17860
+                    "endOffset": 17675
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 238,
-                        "startColumn": 4,
-                        "startOffset": 17807,
-                        "endColumn": 57,
-                        "endOffset": 17860
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 239,
+                    "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 17865,
-                    "endLine": 250,
+                    "startOffset": 17680,
+                    "endLine": 255,
                     "endColumn": 12,
-                    "endOffset": 18554
+                    "endOffset": 18299
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 239,
-                        "startColumn": 4,
-                        "startOffset": 17865,
-                        "endLine": 250,
-                        "endColumn": 12,
-                        "endOffset": 18554
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 251,
+                    "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 18559,
-                    "endLine": 262,
-                    "endColumn": 12,
-                    "endOffset": 19260
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 251,
-                        "startColumn": 4,
-                        "startOffset": 18559,
-                        "endLine": 262,
-                        "endColumn": 12,
-                        "endOffset": 19260
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 263,
-                    "startColumn": 4,
-                    "startOffset": 19265,
-                    "endColumn": 118,
-                    "endOffset": 19379
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 263,
-                        "startColumn": 4,
-                        "startOffset": 19265,
-                        "endColumn": 118,
-                        "endOffset": 19379
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 264,
-                    "startColumn": 4,
-                    "startOffset": 19384,
-                    "endColumn": 128,
-                    "endOffset": 19508
-                },
-                "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 264,
-                        "startColumn": 4,
-                        "startOffset": 19384,
-                        "endColumn": 128,
-                        "endOffset": 19508
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 265,
-                    "startColumn": 4,
-                    "startOffset": 19513,
+                    "startOffset": 18304,
                     "endLine": 267,
                     "endColumn": 12,
-                    "endOffset": 19679
+                    "endOffset": 18935
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 265,
-                        "startColumn": 4,
-                        "startOffset": 19513,
-                        "endLine": 267,
-                        "endColumn": 12,
-                        "endOffset": 19679
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 19684,
-                    "endLine": 270,
-                    "endColumn": 12,
-                    "endOffset": 19845
+                    "startOffset": 18940,
+                    "endColumn": 118,
+                    "endOffset": 19054
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 268,
-                        "startColumn": 4,
-                        "startOffset": 19684,
-                        "endLine": 270,
-                        "endColumn": 12,
-                        "endOffset": 19845
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 271,
+                    "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 19850,
+                    "startOffset": 19059,
                     "endColumn": 128,
-                    "endOffset": 19974
+                    "endOffset": 19183
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 271,
-                        "startColumn": 4,
-                        "startOffset": 19850,
-                        "endColumn": 128,
-                        "endOffset": 19974
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 272,
+                    "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 19979,
-                    "endLine": 274,
+                    "startOffset": 19188,
+                    "endLine": 272,
                     "endColumn": 12,
-                    "endOffset": 20145
+                    "endOffset": 19354
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 272,
-                        "startColumn": 4,
-                        "startOffset": 19979,
-                        "endLine": 274,
-                        "endColumn": 12,
-                        "endOffset": 20145
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 275,
+                    "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 20150,
-                    "endColumn": 130,
-                    "endOffset": 20276
+                    "startOffset": 19359,
+                    "endLine": 275,
+                    "endColumn": 12,
+                    "endOffset": 19520
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 275,
-                        "startColumn": 4,
-                        "startOffset": 20150,
-                        "endColumn": 130,
-                        "endOffset": 20276
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 20281,
-                    "endLine": 278,
-                    "endColumn": 12,
-                    "endOffset": 20446
+                    "startOffset": 19525,
+                    "endColumn": 128,
+                    "endOffset": 19649
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 276,
-                        "startColumn": 4,
-                        "startOffset": 20281,
-                        "endLine": 278,
-                        "endColumn": 12,
-                        "endOffset": 20446
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 279,
+                    "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 20451,
-                    "endLine": 281,
+                    "startOffset": 19654,
+                    "endLine": 279,
                     "endColumn": 12,
-                    "endOffset": 20621
+                    "endOffset": 19820
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 279,
-                        "startColumn": 4,
-                        "startOffset": 20451,
-                        "endLine": 281,
-                        "endColumn": 12,
-                        "endOffset": 20621
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 282,
+                    "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 20626,
+                    "startOffset": 19825,
+                    "endColumn": 130,
+                    "endOffset": 19951
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 19956,
+                    "endLine": 283,
+                    "endColumn": 12,
+                    "endOffset": 20121
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 20126,
                     "endLine": 286,
                     "endColumn": 12,
-                    "endOffset": 20962
+                    "endOffset": 20296
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 282,
-                        "startColumn": 4,
-                        "startOffset": 20626,
-                        "endLine": 286,
-                        "endColumn": 12,
-                        "endOffset": 20962
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 20967,
-                    "endLine": 289,
+                    "startOffset": 20301,
+                    "endLine": 291,
                     "endColumn": 12,
-                    "endOffset": 21160
+                    "endOffset": 20637
                 },
                 "from": {
-                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\4cd8e12e45821912e9dd704f491b53ebd60adc1b\\output\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 4,
-                        "endColumn": 12,
-                        "endOffset": 248
-                    }
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 20642,
+                    "endLine": 294,
+                    "endColumn": 12,
+                    "endOffset": 20835
+                },
+                "from": {
+                    "file": "C:\\Users\\k.prifti\\.android\\build-cache\\4cd8e12e45821912e9dd704f491b53ebd60adc1b\\output\\res\\values-v21\\values-v21.xml"
                 }
             }
         ]

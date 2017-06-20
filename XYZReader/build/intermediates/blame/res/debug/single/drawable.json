@@ -56,12 +56,12 @@
         "source": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
         "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
@@ -84,16 +84,12 @@
         "source": "C:\\Users\\k.prifti\\.android\\build-cache\\4cd8e12e45821912e9dd704f491b53ebd60adc1b\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
         "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\add_fab_background.xml",
-        "source": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\src\\main\\res\\drawable\\add_fab_background.xml"
+        "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\k.prifti\\.android\\build-cache\\35bf424b00267d7c57723c6e2b8363ed6ac22688\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\k.prifti\\Downloads\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",

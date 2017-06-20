@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:duration="500"
+    android:transitionOrdering="together"
+    tools:targetApi="kitkat">
+    <!--&lt;!&ndash;fade everything except statusbar and navigationbar&ndash;&gt;-->
+    <fade xmlns:android="http://schemas.android.com/apk/res/android">
+        <targets>
+            <target
+                android:excludeId="@android:id/statusBarBackground"
+                tools:targetApi="lollipop" />
+            <target
+                android:excludeId="@android:id/navigationBarBackground"
+                tools:targetApi="lollipop" />
+        </targets>
+    </fade>
+    <!--slides in from the top-->
+    <slide
+        android:slideEdge="top"
+        tools:targetApi="lollipop">
+        <targets>
+            <target
+                android:targetId="@id/photo_container"
+                tools:targetApi="kitkat" />
+        </targets>
+    </slide>
+    <!--slides in from the bottom-->
+    <slide
+        android:slideEdge="bottom"
+        tools:targetApi="lollipop">
+        <targets>
+            <target
+                android:targetId="@id/papersheet"
+                tools:targetApi="kitkat" />
+        </targets>
+    </slide>
+</transitionSet>
